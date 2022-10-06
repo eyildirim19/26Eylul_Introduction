@@ -23,6 +23,9 @@
             Console.WriteLine($"d'nin değeri {d}"); // d'Nin değerini ekrana yazdır
             d = 200;
             Console.WriteLine($"d'nin değeri {d}");
+
+            Console.WriteLine("BUndan sonra dersleri buradan takip ediyoruz...");
+
             Console.ReadKey(); // console penceresini kapanmaması için yazdık...
         }
     }
