@@ -77,7 +77,7 @@
             sonuc = 3 > 1 && 3 == 10; // false
             sonuc = 3 == 100 && 4 == 8; // false
 
-
+            Console.WriteLine("test");
 
         }
     }
