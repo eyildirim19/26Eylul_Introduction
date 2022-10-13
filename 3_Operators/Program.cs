@@ -77,6 +77,13 @@
             sonuc = 3 > 1 && 3 == 10; // false
             sonuc = 3 == 100 && 4 == 8; // false
 
+
+            //mantısal veya karışlaştırmalardan birisinin true olması yeterlidir
+            sonuc = 3 > 1 || 3 > 2; // true
+            sonuc =  3 < 1 || 3 > 1; //true
+            sonuc = 3 > 1 || 3 == 10;// true
+            sonuc = 3 == 100 || 4 == 8; // false
+
             Console.WriteLine("test");
 
         }
