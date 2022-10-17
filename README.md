@@ -1,1 +1,7 @@
-# Introduction
+# INTRODUCTION
+
+## Variables
+
+**değişken** ve **veri** konularını içerir
+
+Read.me syntax ı ile ilgil daha fazlası için [tıklayınız](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
