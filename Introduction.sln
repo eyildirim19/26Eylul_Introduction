@@ -13,19 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_TypeConvert", "2_TypeConv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Operators", "3_Operators\3_Operators.csproj", "{613BA904-5F61-4325-AC10-87376E0BE3BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_if", "4_Condition_if\4_Condition_if.csproj", "{BD6D8873-7FFC-49BD-AF66-EF5497710FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_if", "4_Condition_if\4_Condition_if.csproj", "{BD6D8873-7FFC-49BD-AF66-EF5497710FAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_ifelse", "4_Condition_ifelse\4_Condition_ifelse.csproj", "{8954189D-C78C-41E7-968F-3C9A8C4CBD07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_ifelse", "4_Condition_ifelse\4_Condition_ifelse.csproj", "{8954189D-C78C-41E7-968F-3C9A8C4CBD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_ifelse_ornek", "4_Condition_ifelse_ornek\4_Condition_ifelse_ornek.csproj", "{A7D185DD-BD83-4E4F-B6CD-D3B4EE89ECA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_ifelse_ornek", "4_Condition_ifelse_ornek\4_Condition_ifelse_ornek.csproj", "{A7D185DD-BD83-4E4F-B6CD-D3B4EE89ECA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_if_elseif", "4_Condition_if_elseif\4_Condition_if_elseif.csproj", "{BA974F69-9707-43AE-9C50-D27D74491507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_if_elseif", "4_Condition_if_elseif\4_Condition_if_elseif.csproj", "{BA974F69-9707-43AE-9C50-D27D74491507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_ifelseif2", "4_Condition_ifelseif2\4_Condition_ifelseif2.csproj", "{286A325C-AB6E-4CD7-9C15-2B43618208E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_ifelseif2", "4_Condition_ifelseif2\4_Condition_ifelseif2.csproj", "{286A325C-AB6E-4CD7-9C15-2B43618208E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_SwitchCase", "4_Condition_SwitchCase\4_Condition_SwitchCase.csproj", "{88487B7D-0035-4889-9C36-284E987477BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_SwitchCase", "4_Condition_SwitchCase\4_Condition_SwitchCase.csproj", "{88487B7D-0035-4889-9C36-284E987477BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Condition_SwtichCase1", "4_Condition_SwtichCase1\4_Condition_SwtichCase1.csproj", "{D2DE9285-CE2A-4933-817A-0106A41DA448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_SwtichCase1", "4_Condition_SwtichCase1\4_Condition_SwtichCase1.csproj", "{D2DE9285-CE2A-4933-817A-0106A41DA448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops", "5_Loops\5_Loops.csproj", "{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D2DE9285-CE2A-4933-817A-0106A41DA448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DE9285-CE2A-4933-817A-0106A41DA448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DE9285-CE2A-4933-817A-0106A41DA448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
