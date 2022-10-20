@@ -27,17 +27,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_SwitchCase", "4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_Condition_SwtichCase1", "4_Condition_SwtichCase1\4_Condition_SwtichCase1.csproj", "{D2DE9285-CE2A-4933-817A-0106A41DA448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops", "5_Loops\5_Loops.csproj", "{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops", "5_Loops\5_Loops.csproj", "{A8A522EF-E0FE-4E66-8187-8C4E9CE19EB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops2", "5_Loops2\5_Loops2.csproj", "{D09A475F-AEF0-4A42-99AE-81AFED338955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops2", "5_Loops2\5_Loops2.csproj", "{D09A475F-AEF0-4A42-99AE-81AFED338955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops_Ornek1", "5_Loops_Ornek1\5_Loops_Ornek1.csproj", "{179A83BA-58F0-4382-9FC7-475AE6898832}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops_Ornek1", "5_Loops_Ornek1\5_Loops_Ornek1.csproj", "{179A83BA-58F0-4382-9FC7-475AE6898832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops_Ornek2", "5_Loops_Ornek2\5_Loops_Ornek2.csproj", "{65554801-302B-445E-90B4-3D91E74E158C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops_Ornek2", "5_Loops_Ornek2\5_Loops_Ornek2.csproj", "{65554801-302B-445E-90B4-3D91E74E158C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops_Ornek3", "5_Loops_Ornek3\5_Loops_Ornek3.csproj", "{A32EF3D7-8F10-43BE-82C0-572936C57C96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops_Ornek3", "5_Loops_Ornek3\5_Loops_Ornek3.csproj", "{A32EF3D7-8F10-43BE-82C0-572936C57C96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops_Ornek4", "5_Loops_Ornek4\5_Loops_Ornek4.csproj", "{BBB35199-062F-4D1D-8AA6-901CDCC9CACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_Loops_Ornek4", "5_Loops_Ornek4\5_Loops_Ornek4.csproj", "{BBB35199-062F-4D1D-8AA6-901CDCC9CACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Loops_Ornek5", "5_Loops_Ornek5\5_Loops_Ornek5.csproj", "{519DAFCF-6B02-4455-B16F-66655861329C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Arrays", "6_Arrays\6_Arrays.csproj", "{BAEBF91A-67B6-4AC4-95B9-9061C2BADFA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{BBB35199-062F-4D1D-8AA6-901CDCC9CACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB35199-062F-4D1D-8AA6-901CDCC9CACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB35199-062F-4D1D-8AA6-901CDCC9CACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519DAFCF-6B02-4455-B16F-66655861329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519DAFCF-6B02-4455-B16F-66655861329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519DAFCF-6B02-4455-B16F-66655861329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519DAFCF-6B02-4455-B16F-66655861329C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEBF91A-67B6-4AC4-95B9-9061C2BADFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEBF91A-67B6-4AC4-95B9-9061C2BADFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEBF91A-67B6-4AC4-95B9-9061C2BADFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEBF91A-67B6-4AC4-95B9-9061C2BADFA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
