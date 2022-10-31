@@ -9,7 +9,7 @@
 
 
             // 2 boyutlu dizi
-            int[,] nots = new int[3, 3];
+            int[,] nots = new int[3,3];
             // 0. dizinin elemanlarını set ettik...
             nots[0, 0] = 50;
             nots[0, 1] = 100;
